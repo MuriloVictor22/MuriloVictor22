@@ -1,10 +1,5 @@
 # Olá, Mundo! 👋
 
-- 🌱 Atualmente cursando Ciência da Computação na Estácio.
-- 🔭 Em busca do meu primeiro emprego na área.
-
-<br>
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilovictor33/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloVictor22&show_icons=true&theme=merko)
@@ -22,15 +17,13 @@
 
 <br>
 
-<div align="center">
+<div>
     <img src="./images/Laboratory 研究室.gif" height="200px">
 </div>
 
-<br>
+### 🪶 Habilidades
 
-
-<div align="center">
-    <p>🪶 habilidades</p>
+<div>
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5">
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3">
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
