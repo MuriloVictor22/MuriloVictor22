@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloVictor22&show_icons=true&theme=merko)
 
+## Projetos FRONTEND
+- [HTML/CSS/JS - Calculadora]
 
 ## Projetos DIO
 
@@ -12,7 +14,7 @@
 - [Python - FastAPI Docker](https://github.com/MuriloVictor22/dio-fast-api-docker)
 
 ### Santander 2024 - Fundamentos de IA para Devs
-- [ChatGPT - Ebook: A Breve História do Python](https://github.com/MuriloVictor22/dio-chatgpt-ebook)
+- [ChatGPT - E-book: A Breve História do Python](https://github.com/MuriloVictor22/dio-chatgpt-ebook)
 - [ChatGPT - E-book: A Fortaleza Branca](https://github.com/MuriloVictor22/dio-lab-natty-or-not)
 
 <br>
