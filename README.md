@@ -14,12 +14,6 @@
 - [Python - Sistema Bancário](https://github.com/MuriloVictor22/dio-sistema-bancario)
 - [Python - FastAPI Docker](https://github.com/MuriloVictor22/dio-fast-api-docker)
 
-### Santander 2024 - Fundamentos de IA para Devs
-- [ChatGPT - E-book: A Breve História do Python](https://github.com/MuriloVictor22/dio-chatgpt-ebook)
-- [ChatGPT - E-book: A Fortaleza Branca](https://github.com/MuriloVictor22/dio-lab-natty-or-not)
-
-<br>
-
 <div>
     <img src="./images/Laboratory 研究室.gif" height="200px">
 </div>
